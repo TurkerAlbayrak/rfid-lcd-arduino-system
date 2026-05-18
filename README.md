@@ -31,6 +31,9 @@ Kart UID’lerine göre farklı mesajlar gösterir ve kullanıcıyı tanımlar.
 
 ## 🔌 Bağlantı Şeması
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e2731c5d-0b71-4a3a-a30e-0211866b97ef" />
+
+
 ### 📡 MFRC522 RFID Bağlantıları
 
 | RC522 Pin | Arduino UNO |
